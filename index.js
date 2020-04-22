@@ -1,4 +1,4 @@
 const name = [
-    "Esther", "Mercy", "Umoh", "Ridwan", "Abdullahi"
+    "Esther", "Mercy", "Umoh", "Ridwan", "Abdullahi", "Bright"
 ]
 console.log(name)
