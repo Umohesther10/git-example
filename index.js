@@ -3,5 +3,5 @@ const name = [
 ]
 console.log(name)
 
-   "Nazir", "Kemi"
+
 
