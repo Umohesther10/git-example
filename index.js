@@ -1,2 +1,4 @@
-const name = ["Dami", "Grace"];
+const name = [
+   "Nazir", "Kemi"
+];
 console.log(name);
