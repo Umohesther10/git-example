@@ -1,4 +1,4 @@
 const name = [
     "Esther", "Mercy", "Umoh"
 ]
-console.log(array)
+console.log(name)
