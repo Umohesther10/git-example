@@ -10,6 +10,8 @@ const users = [
     age: 25,
     gender: "male",
     course: "Economics",
+
+
   },
   {
     name: "Ikihde Bright",
