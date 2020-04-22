@@ -1,4 +1,4 @@
-const array= [
+const name = [
     "Esther", "Mercy", "Umoh", "Ridwan", "Abdullahi"
 ]
-console.log(array)
+console.log(name)
